@@ -4,7 +4,7 @@
   justify-content: space-between;
 
 
-          @media (max-width:$tablet--small){
+  @media (max-width:$tablet--small){
     width: auto;
   }
 }
@@ -37,6 +37,7 @@
     flex-direction: column;
     justify-content: center;
     width: 100%;
+    height: 100px;
 
 
     span{

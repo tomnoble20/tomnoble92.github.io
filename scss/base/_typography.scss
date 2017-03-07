@@ -14,10 +14,15 @@ html{
 
 
 h1{
+  width: 70%;
   padding: 1.5em 0 1.5em 0;
   font-size: 3.5rem;
   font-weight: 700;
   line-height: 1.5;
+
+      @media (max-width:$tablet){
+    width:100%;
+  }
 
     @media (max-width:$tablet--small){
     font-size: 2rem;
