@@ -1,0 +1,49 @@
+.cv-section__experience{
+
+
+}
+
+
+
+
+.cv-section__experience__job{
+    padding: 2em 0 2em 0;
+
+    h3{        
+        padding: 0.5em 0 0.5em 0;
+        font-size:1.5rem;
+        font-weight: 700;
+    }
+
+h4{
+    font-weight: 300;
+        padding: 0.5em 0 0.5em 0;
+
+}
+
+
+}
+
+
+.cv-section__experience__side-graphic{
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+    padding: 2em 0 2em 0;
+
+    //background-color: red;
+
+       @media (max-width:$tablet--small){
+     display: none;
+
+  }
+
+
+    svg{
+        margin-top: 10px;
+    }
+
+    svg:nth-child(2), svg:nth-child(3){
+        margin-top:0;
+    }
+}

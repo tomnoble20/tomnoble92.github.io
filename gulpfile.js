@@ -13,28 +13,34 @@ var gulp = require('gulp'),
 gulp.task('sass', function() {
     return sass('scss/style.scss', {
             style: 'compressed',
-            //loadPath: ['node_modules/susy/sass']
         })
         .pipe(plumber())
         .on('error', sass.logError)
         .pipe(prefix('last 3 versions'))
         .pipe(gulp.dest('css'));
-    //.pipe(reload({stream:true}));
 });
 
 
 
+gulp.task('browser-sync', function() {
+    browserSync.init({
+        server: {
+            baseDir: "./"
+        }
+    });
+});
 
 
-
+/*
 gulp.task('browser-sync', function() {
     browserSync.init(null, {
-        proxy: "localhost:8888/cv",
+        proxy: "localhost:3002",
         online: true
     });
 
 
 });
+*/
 
 
 

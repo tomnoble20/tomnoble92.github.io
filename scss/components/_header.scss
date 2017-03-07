@@ -1,6 +1,12 @@
 .site-header{
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
+
+
+          @media (max-width:$tablet--small){
+    width: auto;
+  }
 }
 
 
@@ -12,6 +18,9 @@
   height: 180px;
   background-color: $orange;
 
+
+
+
   span{
     position: absolute;
     bottom: 10px;
@@ -20,6 +29,19 @@
     font-size: 3rem;
     color:#fff;
     text-align: center;
+  }
+
+
+        @media (max-width:$tablet--small){
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+
+
+    span{
+      position: static;
+    }
   }
 }
 

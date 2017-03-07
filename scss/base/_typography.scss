@@ -3,6 +3,12 @@ html{
   font-family: 'Montserrat', sans-serif;
   color:$font-colour;
 
+  @media (max-width:$tablet){
+    font-size: 80%;
+  }
+
+
+
 
 }
 
@@ -12,6 +18,11 @@ h1{
   font-size: 3.5rem;
   font-weight: 700;
   line-height: 1.5;
+
+    @media (max-width:$tablet--small){
+    font-size: 2rem;
+    padding: 1.5em 0.5em 1.5em 0.5em;
+  }
 }
 
 h2{
@@ -24,4 +35,27 @@ p{
   font-weight: 300;
   line-height: 1.5;
 
+}
+
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
 }
