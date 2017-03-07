@@ -1,0 +1,28 @@
+.content-wrapper{
+  max-width: 1200px;
+  width: 100%;
+  margin: auto;
+  padding: 0 1em 0 1em;
+  //background-color: red;
+}
+
+.flex-wrapper{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.cv-section__half{
+  width: 48%;
+  height:500px;
+  padding: 1em;
+  //flex-grow: 1;
+  //background-color: red;
+
+  h2{
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-decoration: underline;
+  }
+
+}

@@ -1,0 +1,36 @@
+.site-header{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+.site-logo{
+  position: relative;
+  min-width: 160px;
+  width: 160px;
+  height: 180px;
+  background-color: $orange;
+
+  span{
+    position: absolute;
+    bottom: 10px;
+    display: block;
+    width: 100%;
+    font-size: 3rem;
+    color:#fff;
+    text-align: center;
+  }
+}
+
+.contact-nav{
+//background-color: green;
+
+li{
+  display: inline-block;
+  padding: 2em;
+  font-size: 1.2rem;
+  color:#777777;
+
+}
+}
