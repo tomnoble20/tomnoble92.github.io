@@ -7,6 +7,19 @@
   justify-content: space-between;
   width: 60%;
   padding: 1em 0 1em 0;
+
+  @media (max-width:$tablet){
+    width: 80%;
+  }
+
+  @media (max-width:$tablet--small){
+    width: 50%;
+  }
+
+  @media (max-width:$mobile--large){
+    width: 80%;
+  }
+
 }
 
 .skillset__graph__bar{
@@ -82,7 +95,7 @@ background-color: $orange;
     height: 0;
   }
   100% {
-    height: 60%;
+    height: 40%;
   }
 }
 }
