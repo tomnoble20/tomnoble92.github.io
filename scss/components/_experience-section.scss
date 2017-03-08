@@ -7,7 +7,8 @@
 
 
 .cv-section__experience__job{
-    padding: 2em 0 2em 0;
+  position: relative;
+    padding: 2em 0 2em 3em;
 
     h3{
         padding: 0.5em 0 0.5em 0;
@@ -16,13 +17,49 @@
     }
 
 h4{
+  position: relative;
     font-weight: 300;
         padding: 0.5em 0 0.5em 0;
 
 }
+
+.cv-section__experience__job__date:before{
+  content:url('../line.svg');
+  position: absolute;
+  top:24%;
+  left:-5%;
+    max-height: 300px;
+    overflow: hidden;
+
+
+    @media (max-width:$tablet--small) {
+      left: -40px;
+      max-height: 400px;
+    }
+
+
+    @media (max-width:$mobile--large) {
+      left: -40px;
+      max-height: 500px;
+    }
 }
 
 
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+/*
 .cv-section__experience__side-graphic{
     display: flex;
     flex-direction: column;
@@ -31,7 +68,7 @@ h4{
 
     //background-color: red;
 
-       @media (max-width:$tablet--small){
+       @media (max-width:$tablet){
      display: none;
 
   }
@@ -45,3 +82,4 @@ h4{
         margin-top:0;
     }
 }
+*/
