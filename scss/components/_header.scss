@@ -13,11 +13,8 @@
     width: 160px;
     height: 180px;
     //background-color: $orange;
-    background: linear-gradient(to left, #FFB75E , #ED8F03); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-
-
-
+    background: linear-gradient(to left, #FFB75E , #ED8F03);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     span {
         position: absolute;
         bottom: 10px;
@@ -68,8 +65,9 @@
                 left: -15px;
                 bottom: -40px;
                 padding: 0.5rem;
-                background: linear-gradient(to left, #FFB75E , #ED8F03); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
-
+                background: linear-gradient(to left, #FFB75E , #ED8F03);
+                /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+                ;
                 color: #fff;
                 border-radius: 3px;
                 transition: 0.2s ease-in;

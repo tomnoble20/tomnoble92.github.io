@@ -1,64 +1,38 @@
-.cv-section__experience{
+.cv-section__experience {}
 
-
-}
-
-
-
-
-.cv-section__experience__job{
-  position: relative;
+.cv-section__experience__job {
+    position: relative;
     padding: 2em 0 2em 3em;
 
-    h3{
-        padding: 0.5em 0 0.5em 0;
-        font-size:1.5rem;
+    h3 {
+        padding: 0.5em 0;
+        font-size: 1.5rem;
         font-weight: 700;
     }
 
-h4{
-  position: relative;
-    font-weight: 300;
-        padding: 0.5em 0 0.5em 0;
-
-}
-
-.cv-section__experience__job__date:before{
-  content:url('../line.svg');
-  position: absolute;
-  top:24%;
-  left:-5%;
-    max-height: 300px;
-    overflow: hidden;
-
-
-    @media (max-width:$tablet--small) {
-      left: -40px;
-      max-height: 400px;
+    h4 {
+        position: relative;
+        font-weight: 300;
+        padding: 0.5em 0;
     }
 
-
-    @media (max-width:$mobile--large) {
-      left: -40px;
-      max-height: 500px;
+    .cv-section__experience__job__date:before {
+        content: url('../line.svg');
+        position: absolute;
+        top: 24%;
+        left: -5%;
+        max-height: 300px;
+        overflow: hidden;
+        @media (max-width:$tablet--small) {
+            left: -40px;
+            max-height: 400px;
+        }
+        @media (max-width:$mobile--large) {
+            left: -40px;
+            max-height: 500px;
+        }
     }
 }
-
-
-
-
-
-
-
-
-}
-
-
-
-
-
-
-
 /*
 .cv-section__experience__side-graphic{
     display: flex;
