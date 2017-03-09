@@ -17,11 +17,11 @@
     }
 
     .cv-section__experience__job__date:before {
-        content: url('../line.svg');
+        content: url('../img/line.svg');
         position: absolute;
         top: 24%;
         left: -5%;
-        max-height: 350px;
+        max-height: 1000px;
         overflow: hidden;
         @media (max-width:$tablet--small) {
             left: -40px;
@@ -29,7 +29,7 @@
         }
         @media (max-width:$mobile--large) {
             left: -40px;
-            max-height: 500px;
+            max-height: 1000px;
         }
     }
 }
