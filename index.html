@@ -5,67 +5,61 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Tom Noble CV</title>
-  <meta name="description" content="">
+  <meta name="description" content="Front end developer looking for a new job">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="icon" href="favicon.ico" type="image/x-icon">
-
   <link rel="stylesheet" href="css/style.css">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">
-
-
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,500,700" rel="stylesheet">
 </head>
 
 <body>
 
-  <header class="site-header content-wrapper content-wrapper--0padding" role="header">
+<header class="c-site-header o-content-wrapper u-no-padding" role="header">
 
-    <div class="site-logo">
+    <div class="c-site-logo">
       <span>Hello.</span>
     </div>
 
 
-    <div class="social-nav">
-      <ul>
+    <div class="c-social-nav">
+      <ul class="c-social-nav__contact-details">
         <li><span class="bold">Email:</span><a href="mailto:tomnoble1904@gmail.com"> tomnoble1904@gmail.com</a></li>
         <li><span class="bold">Tel:</span> 07564227015</li>
       </ul>
 
-      <ul>
+      <ul class="c-social-nav__social-icons">
         <li>
           <a href="https://github.com/tomnoble92"><img src="img/github-icon.svg" alt="github">
-                  <span class="social-nav__tooltip">Github</span>
-                </a>
-
+          <span class="c-social-nav__tooltip">Github</span>
+          </a>
         </li>
+
         <li>
           <a href="https://codepen.io/tomnoble92/"><img src="img/codepen-icon.svg" alt="codepen">
-                  <span class="social-nav__tooltip">Codepen</span>
-                </a></li>
+          <span class="c-social-nav__tooltip">Codepen</span>
+          </a>
+        </li>
 
         <li>
           <a href="https://www.linkedin.com/in/tom-noble-505164119/"><img src="img/linkedin-icon.svg" alt="linkedin">
-                  <span class="social-nav__tooltip">Linkedin</span>
-              </a></li>
-
-
+          <span class="c-social-nav__tooltip">Linkedin</span>
+          </a>
+        </li>
       </ul>
-
-
     </div>
-
-
 
   </header>
 
-  <main class="cv-section content-wrapper" role=”main”>
+  <main class="cv-section o-content-wrapper" role=”main”>
 
     <h1>My Name is Tom Noble and I’m a <span id="type-animation"></span></h1>
 
 
-    <div class="flex-wrapper flex-wrapper--wrap">
-      <section class="cv-section__half cv-section__summary">
-        <h2>SUMMARY</h2>
+    <div class="o-flex-wrapper">
+      <section class="o-col-half">
+
+        <h2 tabindex="0">SUMMARY</h2>
 
         <p>I am a front-end web developer experienced in developing performant websites using semantic HTML and scalable CSS. I’m always evaluating and upgrading my skills so I can stay on top of the current technologies/trends.</p>
 
@@ -78,63 +72,53 @@
 
       </section>
 
+      <section class="o-col-half">
 
-      <section class="cv-section__half cv-section__skillset">
+        <h2 tabindex="0">SKILLSET</h2>
 
-        <h2>SKILLSET</h2>
+        <div class="c-skillset">
 
-        <div class="cv-section__skillset__graph">
-
-
-
-          <div class="skillset__graph__bar">
-            <div class="bar--empty">
-              <div class="bar--full bar--full-90"></div>
+          <div class="c-skillset__skill">
+            <div class="bar">
+              <div class="bar__filling bar__amount-90"></div>
             </div>
             <h3>HTML</h3>
 
           </div>
-          <!--skillset__graph__bar-->
 
 
-          <div class="skillset__graph__bar">
-            <div class="bar--empty">
-              <div class="bar--full bar--full-90"></div>
+          <div class="c-skillset__skill">
+            <div class="bar">
+              <div class="bar__filling bar__amount-90"></div>
             </div>
             <h3>CSS</h3>
 
           </div>
-          <!--skillset__graph__bar-->
 
-          <div class="skillset__graph__bar">
-            <div class="bar--empty">
-              <div class="bar--full bar--full-60"></div>
+          <div class="c-skillset__skill">
+            <div class="bar">
+              <div class="bar__filling bar__amount-60"></div>
             </div>
             <h3>JS</h3>
 
           </div>
-          <!--skillset__graph__bar-->
 
-
-          <div class="skillset__graph__bar">
-            <div class="bar--empty">
-              <div class="bar--full bar--full-40"></div>
+          <div class="c-skillset__skill">
+            <div class="bar">
+              <div class="bar__filling bar__amount-40"></div>
             </div>
             <h3>PHP</h3>
 
           </div>
-          <!--skillset__graph__bar-->
         </div>
-        <!--cv-section__skillset__graph-->
 
-        <div class="cv-section__skillset__list">
+        <div class="c-skillset__pills">
           <ul>
             <li>Sass</li>
             <li>Gulp</li>
             <li>Vagrant</li>
             <li>Sketch</li>
           </ul>
-
 
           <ul>
             <li>Wordpress</li>
@@ -143,48 +127,34 @@
             <li>Photoshop</li>
           </ul>
 
-
         </div>
-        <!--cv-section__skillset__list-->
 
       </section>
 
-
-
-
     </div>
 
+    <section class="c-experience-section">
+      <h2 tabindex="0">EXPERIENCE</h2>
 
-    <section class="cv-section cv-section__experience">
-      <h2>EXPERIENCE</h2>
-
-      <div class="cv-section__experience flex-wrapper">
-
-
-
-
-        <div>
-
-          <article class="cv-section__experience__job">
-            <h4 class="cv-section__experience__job__date">8th June 2016-Present | Hull, England </h4>
-            <h3>Web Developer</h3>
-            <h4>Two Heads Design</h4>
+          <article class="c-job-description">
+            <h4 class="c-job-description__date">8th June 2016-Present | Hull, England </h4>
+            <h3 tabindex="0">Web Developer</h3>
+            <span>Two Heads Design</span>
 
             <p>
               I’m the sole Web Developer responsible for developing and designing websites using the best and most up to date practices and techniques. When writing the CSS I’ve adopted a component based technique. The benefit to this is no component is tied to the
               template or page, so it can be reused across the website. In addition to the component based technique, I use BEM naming convention for all the classes to make it easy to understand how each element relates to the parent and one another.
               Other than the responsibility of developing and maintaining websites, I also manage the Twoheads servers and client hosting. These responsibilities make me the first point of contact for any client issues or requests, which are dealt with
               in a quick and professional manner.
-
             </p>
 
           </article>
 
-          <article class="cv-section__experience__job">
+          <article class="c-job-description">
 
-            <h4 class="cv-section__experience__job__date">June-July 2015 | Sydney, Australia </h4>
-            <h3>Scanning Administrator</h3>
-            <h4>TAL Insurance</h4>
+            <h4 class="c-job-description__date">June-July 2015 | Sydney, Australia </h4>
+            <h3 tabindex="0"      >Scanning Administrator</h3>
+            <span>TAL Insurance</span>
 
             <p>As a temporary member of staff employed for the end of the financial year, I aided with the smooth transition in what is the busiest period of the year for the business. Our department had a huge workflow for the duration of the six weeks
               of my employment, but with my help and often working 50 hour weeks, we managed to ensure the smooth processing of the vast multitude of incoming claims, thus in keeping with the company’s 48 hour turnaround policy.
@@ -192,46 +162,26 @@
 
           </article>
 
+          <article class="c-job-description">
 
-
-
-          <article class="cv-section__experience__job">
-
-            <h4 class="cv-section__experience__job__date">February 2014-May 2015 | Hull, England </h4>
-            <h3>Service Support Assistant</h3>
-            <h4>Hull City Council</h4>
+            <h4 class="c-job-description__date">February 2014-May 2015 | Hull, England </h4>
+            <h3 tabindex="0"      >Service Support Assistant</h3>
+            <span>Hull City Council</span>
 
             <p>My main duties within this role was to be the first point of contact for clients and professionals, whether this be face to face or over the telephone dealing with the queries and problems they faced. I always operated within strict data protection
               laws whilst handling sensitive information. On top of my main duties I was has the responsibility of maintaining a confidential filing system.</p>
 
           </article>
 
-        </div>
-
-
-
-      </div>
-
-
-
-
-
-
-
     </section>
 
-
-
   </main>
-<img src="img/brush.svg" class="c-toggle-theme">
+<a href="#"><img src="img/brush.svg" alt="brush" class="c-toggle-theme"></a>
 
   <footer>
     <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-
     <script src="js/typed.js"></script>
     <script src="js/theme.js"></script>
-
-
 
     <script>
       $(function() {
@@ -241,11 +191,7 @@
         });
       });
     </script>
-
   </footer>
-
-
-
 </body>
 
 </html>

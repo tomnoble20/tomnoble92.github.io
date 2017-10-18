@@ -44,9 +44,18 @@
 \*------------------------------------*/
 @import "components/_header.scss";
 
+@import "components/_type-animation.scss";
+
+
 @import "components/_footer.scss";
 
 
 @import "components/_summary-section.scss";
 
 @import "components/_experience-section.scss";
+
+/*------------------------------------*\
+ #TRUMPS
+\*------------------------------------*/
+
+@import "trumps/_trumps.scss";

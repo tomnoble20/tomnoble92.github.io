@@ -1,49 +1,20 @@
-.content-wrapper{
+.o-content-wrapper{
   max-width: 1200px;
-  //width: 100%;
   margin: auto;
   padding: 0 1em 0 1em;
   overflow: hidden;
-  //background-color: red;
 }
 
-.content-wrapper--0padding{
-    padding: 0;
-
-}
-
-.flex-wrapper{
+.o-flex-wrapper{
   display: flex;
   justify-content: space-between;
-}
-
-.flex-wrapper--wrap{
   flex-wrap: wrap;
 }
 
 
-.cv-section{
-  h2{
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-decoration: underline;
-  }
-}
-
-
-.cv-section__half{
+.o-col-half{
   width: 45%;
-
-
      @media (max-width:$tablet--small){
       width:100%;
-
   }
-
-
-  //flex-grow: 1;
-  //background-color: red;
-
-
-
 }

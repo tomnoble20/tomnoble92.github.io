@@ -1,6 +1,4 @@
-.cv-section__skillset {}
-
-.cv-section__skillset__graph {
+.c-skillset {
   display: flex;
   justify-content: space-between;
   width: 60%;
@@ -16,16 +14,14 @@
   }
 }
 
-.skillset__graph__bar {
-  width: 20%;
+.c-skillset__skill {width: 20%;}
 
-  h3 {
-    text-align: center;
-    padding: 1em 0;
-  }
+.skillset__graph__bar h3{
+  text-align: center;
+  padding: 1em 0;
 }
 
-.bar--empty {
+.bar{
   position: relative;
   width: 100%;
   height: 120px;
@@ -33,18 +29,8 @@
   border-radius: 5px;
 }
 
-.bar--full {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
-  border-radius: 5px;
-  background-color: $orange;
-  background: var(--gradient);
-  ;
-}
 
-.bar--full-90 {
+.bar__amount-90 {
   height: 90%;
   animation: fill_90 2s;
   @keyframes fill_90 {
@@ -58,21 +44,8 @@
   }
 }
 
-.bar--full-80 {
-  height: 80%;
-  animation: fill_80 2s;
-  @keyframes fill_80 {
-    0% {
-      height: 0;
-    }
 
-    100% {
-      height: 80%;
-    }
-  }
-}
-
-.bar--full-60 {
+.bar__amount-60 {
   height: 60%;
   animation: fill_60 3s;
   @keyframes fill_60 {
@@ -86,7 +59,7 @@
   }
 }
 
-.bar--full-40 {
+.bar__amount-40{
   height: 40%;
   animation: fill_40 4s;
   @keyframes fill_40 {
@@ -100,27 +73,40 @@
   }
 }
 
-.cv-section__skillset__list {
+
+.bar__filling {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border-radius: 5px;
+  background-color: $orange;
+  background: var(--gradient);
+}
+
+
+/* Skill Set Pills */
+
+.c-skillset__pills {
   display: flex;
   width: 65%;
+}
 
-  ul {
-    margin-right: 1em;
-    height: auto;
-  }
+.c-skillset__pills ul{
+  margin-right: 1em;
+  height: auto;
+}
 
-  li {
-    max-width: 160px;
-    padding: 1em 3em;
-    margin: 1em 0;
-    border-radius: 5px;
-    background-color: #444;
-    color: #fff;
-    text-align: center;
-    @media (max-width:$tablet) {
-      max-width: auto;
-      font-size: 14px;
-      padding: 1em;
-    }
+.c-skillset__pills li{
+  max-width: 160px;
+  padding: 1em 3em;
+  margin: 1em 0;
+  border-radius: 5px;
+  background-color: #444;
+  color: #fff;
+  text-align: center;
+
+  @media (max-width:$tablet) {
+    font-size: 14px;
+    padding: 1em;
   }
 }

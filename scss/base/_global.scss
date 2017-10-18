@@ -1,30 +1,3 @@
-:root {
---text-colour: #394149;
---link-colour: #F6A623;
---background:#F6A623;
---gradient: linear-gradient(to left, #FFB75E , #ED8F03);
---background-bar:rgba(246, 166, 35, 0.2);
-
-}
-
-
-
-.theme-blue {
---text-colour: #394149;
---link-colour: #1e3c72;
---background:#1e3c72;
---gradient:linear-gradient(to right, #1e3c72, #2a5298);
---background-bar:rgba(30, 60, 114, 0.2);
-}
-
-.theme-blue__svg{
-    .cv-section__experience__job__date:before{
-      content: url('../img/line--blue.svg')!important;
-    }
-}
-
-
-
 html {
   font-size: 100%;
   font-family: 'Montserrat', sans-serif;
@@ -32,6 +5,10 @@ html {
   @media (max-width:$tablet) {
     font-size: 80%;
   }
+}
+
+body{
+  line-height: 1.5;
 }
 
 a {
