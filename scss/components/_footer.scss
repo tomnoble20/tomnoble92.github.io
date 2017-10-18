@@ -1,7 +1,5 @@
 footer{
   width: 100%;
   height: 10px;
-background: linear-gradient(to left, #FFB75E , #ED8F03);
-/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-;
+  background: var(--gradient);
 }
