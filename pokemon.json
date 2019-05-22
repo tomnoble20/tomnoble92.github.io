@@ -21,18 +21,18 @@
     {  
        "id": "#004",    
        "name":"charmander",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"    
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"    
 
     },
     {  
        "id": "#005",    
        "name":"charmeleon",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
     },
     {  
        "id": "#006",    
        "name":"charizard",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
     },
     {  
        "name":"squirtle",
