@@ -90,47 +90,47 @@
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
     },
     {  
-       "id": "#018"   
+       "id": "#018",   
        "name":"pidgeot",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
     },
     {  
-       "id": "#019"    
+       "id": "#019",    
        "name":"rattata",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
     },
     {  
-       "id": "#020"    
+       "id": "#020",    
        "name":"raticate",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
     },
     {  
-       "id": "#021"
+       "id": "#021",
        "name":"spearow",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png"
     },
     {  
-       "id": "#022"    
+       "id": "#022",    
        "name":"fearow",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png"
     },
     {  
-       "id": "#023"    
+       "id": "#023",    
        "name":"ekans",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
     },
     {  
-       "id": "#024"    
+       "id": "#024",    
        "name":"arbok",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
     },
     {  
-       "id": "#025"    
+       "id": "#025",    
        "name":"pikachu",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
     },
     {  
-       "id": "#026"    
+       "id": "#026",    
        "name":"raichu",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
     },
