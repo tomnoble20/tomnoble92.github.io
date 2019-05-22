@@ -90,40 +90,49 @@
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
     },
     {  
+       "id": "#018"   
        "name":"pidgeot",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
     },
     {  
+       "id": "#019"    
        "name":"rattata",
-       "url":"https://pokeapi.co/api/v2/pokemon/19/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
     },
     {  
+       "id": "#020"    
        "name":"raticate",
-       "url":"https://pokeapi.co/api/v2/pokemon/20/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
     },
     {  
+       "id": "#021"
        "name":"spearow",
-       "url":"https://pokeapi.co/api/v2/pokemon/21/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png"
     },
     {  
+       "id": "#022"    
        "name":"fearow",
-       "url":"https://pokeapi.co/api/v2/pokemon/22/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png"
     },
     {  
+       "id": "#023"    
        "name":"ekans",
-       "url":"https://pokeapi.co/api/v2/pokemon/23/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
     },
     {  
+       "id": "#024"    
        "name":"arbok",
-       "url":"https://pokeapi.co/api/v2/pokemon/24/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
     },
     {  
+       "id": "#025"    
        "name":"pikachu",
-       "url":"https://pokeapi.co/api/v2/pokemon/25/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
     },
     {  
+       "id": "#026"    
        "name":"raichu",
-       "url":"https://pokeapi.co/api/v2/pokemon/26/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
     },
     {  
        "name":"sandshrew",
