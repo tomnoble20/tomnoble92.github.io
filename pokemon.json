@@ -51,7 +51,7 @@
     },
     {  
        "id": "#010",    
-       "name":"cCaterpie",
+       "name":"Caterpie",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
     },
     {  
@@ -65,28 +65,33 @@
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
     },
     {  
-       "name":"weedle",
-       "url":"https://pokeapi.co/api/v2/pokemon/13/"
+       "id": "#013",    
+       "name":"Weedle",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
     },
     {  
-       "name":"kakuna",
-       "url":"https://pokeapi.co/api/v2/pokemon/14/"
+       "id": "#014",    
+       "name":"Kakuna",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
     },
     {  
-       "name":"beedrill",
-       "url":"https://pokeapi.co/api/v2/pokemon/15/"
+       "id": "#015",    
+       "name":"Beedrill",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
     },
     {  
+       "id": "#016",    
        "name":"pidgey",
-       "url":"https://pokeapi.co/api/v2/pokemon/16/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
     },
     {  
+       "id": "#017",    
        "name":"pidgeotto",
-       "url":"https://pokeapi.co/api/v2/pokemon/17/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
     },
     {  
        "name":"pidgeot",
-       "url":"https://pokeapi.co/api/v2/pokemon/18/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
     },
     {  
        "name":"rattata",
