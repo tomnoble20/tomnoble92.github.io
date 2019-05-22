@@ -19,7 +19,7 @@
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"     
     },
     {  
-       "id": "#004"    
+       "id": "#004",    
        "name":"charmander",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"    
 
@@ -30,7 +30,7 @@
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
     },
     {  
-       "id": "#006"    
+       "id": "#006",    
        "name":"charizard",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
     },
