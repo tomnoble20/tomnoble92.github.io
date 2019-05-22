@@ -40,26 +40,29 @@
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
     },
     {  
-       "id": "008"    
+       "id": "#008",    
        "name":"Wartortle",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
     },
     {  
-       "id": "009"    
+       "id": "#009",    
        "name":"Blastoise",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
     },
     {  
-       "name":"caterpie",
-       "url":"https://pokeapi.co/api/v2/pokemon/10/"
+       "id": "#010",    
+       "name":"cCaterpie",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
     },
     {  
-       "name":"metapod",
-       "url":"https://pokeapi.co/api/v2/pokemon/11/"
+       "id": "#011",    
+       "name":"Metapod",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
     },
     {  
-       "name":"butterfree",
-       "url":"https://pokeapi.co/api/v2/pokemon/12/"
+       "id": "#012",    
+       "name":"Butterfree",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
     },
     {  
        "name":"weedle",
