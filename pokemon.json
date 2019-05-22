@@ -20,31 +20,34 @@
     },
     {  
        "id": "#004",    
-       "name":"charmander",
+       "name":"Charmander",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"    
 
     },
     {  
        "id": "#005",    
-       "name":"charmeleon",
+       "name":"Charmeleon",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
     },
     {  
        "id": "#006",    
-       "name":"charizard",
+       "name":"Charizard",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
     },
     {  
-       "name":"squirtle",
-       "url":"https://pokeapi.co/api/v2/pokemon/7/"
+       "id": "#007",    
+       "name":"Squirtle",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
     },
     {  
-       "name":"wartortle",
-       "url":"https://pokeapi.co/api/v2/pokemon/8/"
+       "id": "008"    
+       "name":"Wartortle",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
     },
     {  
-       "name":"blastoise",
-       "url":"https://pokeapi.co/api/v2/pokemon/9/"
+       "id": "009"    
+       "name":"Blastoise",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
     },
     {  
        "name":"caterpie",
