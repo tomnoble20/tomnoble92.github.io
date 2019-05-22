@@ -10,9 +10,9 @@
         ]
     },
     {  
-       "id": "#002"    
+       "id": "#002",    
        "name":"ivysaur",
-       "url":"https://pokeapi.co/api/v2/pokemon/2/"
+       "url":"https://pokeapi.co/api/v2/pokemon/2/",
        "img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"    
     },
     {  
