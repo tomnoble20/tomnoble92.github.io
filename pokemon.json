@@ -1,7 +1,7 @@
 [
 {  
-       "id": "001",
-       "name":"bulbasaur",
+       "id": "#001",
+       "name":"Bulbasaur",
        "url":"https://pokeapi.co/api/v2/pokemon/1/",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
        "types": [
