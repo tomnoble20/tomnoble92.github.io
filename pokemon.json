@@ -14,21 +14,25 @@
        "img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"    
     },
     {  
-       "id": "#003"    
+       "id": "#003",    
        "name":"Venusaur",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"     
     },
     {  
+       "id": "#004"    
        "name":"charmander",
-       "url":"https://pokeapi.co/api/v2/pokemon/4/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"    
+
     },
     {  
+       "id": "#005",    
        "name":"charmeleon",
-       "url":"https://pokeapi.co/api/v2/pokemon/5/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
     },
     {  
+       "id": "#006"    
        "name":"charizard",
-       "url":"https://pokeapi.co/api/v2/pokemon/6/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
     },
     {  
        "name":"squirtle",
