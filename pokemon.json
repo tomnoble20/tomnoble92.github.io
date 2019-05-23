@@ -355,49 +355,59 @@
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png"
     },
     {  
-       "id": "#070",    
+       "id": "#071",    
        "name":"Victreebel",
-       "url":"https://pokeapi.co/api/v2/pokemon/71/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png"
     },
     {  
-       "name":"tentacool",
-       "url":"https://pokeapi.co/api/v2/pokemon/72/"
+       "id": "#072",    
+       "name":"Tentacool",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png"
     },
     {  
-       "name":"tentacruel",
-       "url":"https://pokeapi.co/api/v2/pokemon/73/"
+       "id": "#073",    
+       "name":"Tentacruel",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png"
     },
     {  
-       "name":"geodude",
-       "url":"https://pokeapi.co/api/v2/pokemon/74/"
+       "id": "#074",    
+       "name":"Geodude",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png"
     },
     {  
-       "name":"graveler",
-       "url":"https://pokeapi.co/api/v2/pokemon/75/"
+       "id": "#075",    
+       "name":"Graveler",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png"
     },
     {  
-       "name":"golem",
-       "url":"https://pokeapi.co/api/v2/pokemon/76/"
+       "id": "#076",    
+       "name":"Golem",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png"
     },
     {  
-       "name":"ponyta",
-       "url":"https://pokeapi.co/api/v2/pokemon/77/"
+       "id": "#077",    
+       "name":"Ponyta",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png"
     },
     {  
-       "name":"rapidash",
-       "url":"https://pokeapi.co/api/v2/pokemon/78/"
+       "id": "#078",    
+       "name":"Rapidash",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png"
     },
     {  
-       "name":"slowpoke",
-       "url":"https://pokeapi.co/api/v2/pokemon/79/"
+       "id": "#079",    
+       "name":"Slowpoke",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png"
     },
     {  
-       "name":"slowbro",
-       "url":"https://pokeapi.co/api/v2/pokemon/80/"
+       "id": "#080",    
+       "name":"Slowbro",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png"
     },
     {  
-       "name":"magnemite",
-       "url":"https://pokeapi.co/api/v2/pokemon/81/"
+       "id": "#081",    
+       "name":"Magnemite",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png"
     },
     {  
        "name":"magneton",
