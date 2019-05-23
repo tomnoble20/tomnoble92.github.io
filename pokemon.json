@@ -151,148 +151,158 @@
     },
     {  
        "id": "#030",    
-       "name":"nidorina",
+       "name":"Nidorina",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
     },
     {  
        "id": "#031",    
-       "name":"nidoqueen",
+       "name":"Nidoqueen",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png"
     },
     {  
        "id": "#032",    
-       "name":"nidoran-m",
+       "name":"Nidoran-m",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png"
     },
     {  
        "id": "#033",    
-       "name":"nidorino",
+       "name":"Nidorino",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png"
     },
     {  
        "id": "#034",    
-       "name":"nidoking",
+       "name":"Nidoking",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png"
     },
     {  
        "id": "#035",    
-       "name":"clefairy",
+       "name":"Clefairy",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png"
     },
     {  
        "id": "#036",    
-       "name":"clefable",
+       "name":"Clefable",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png"
     },
     {  
        "id": "#037",    
-       "name":"vulpix",
+       "name":"Vulpix",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
     },
     {  
        "id": "#038",    
-       "name":"ninetales",
+       "name":"Ninetales",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
     },
     {  
        "id": "#039",    
-       "name":"jigglypuff",
+       "name":"Jigglypuff",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
     },
     {  
        "id": "#040",    
-       "name":"wigglytuff",
+       "name":"Wigglytuff",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png"
     },
     {  
        "id": "#041",    
-       "name":"zubat",
+       "name":"Zubat",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
     },
     {  
        "id": "#042",    
-       "name":"golbat",
+       "name":"Golbat",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png"
     },
     {  
        "id": "#043",    
-       "name":"oddish",
+       "name":"Oddish",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
     },
     {  
        "id": "#044",    
-       "name":"gloom",
+       "name":"Gloom",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png"
     },
     {  
        "id": "#045",    
-       "name":"vileplume",
+       "name":"Vileplume",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png"
     },
     {  
        "id": "#046",    
-       "name":"paras",
+       "name":"Paras",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png"
     },
     {  
        "id": "#047",    
-       "name":"parasect",
+       "name":"Parasect",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png"
     },
     {  
        "id": "#048",    
-       "name":"venonat",
+       "name":"Venonat",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png"
     },
     {  
        "id": "#049",    
-       "name":"venomoth",
+       "name":"Venomoth",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png"
     },
     {  
        "id": "#050",    
-       "name":"diglett",
+       "name":"Diglett",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png"
     },
     {  
-       "name":"dugtrio",
-       "url":"https://pokeapi.co/api/v2/pokemon/51/"
+       "id": "#051",    
+       "name":"Dugtrio",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png"
     },
     {  
-       "name":"meowth",
-       "url":"https://pokeapi.co/api/v2/pokemon/52/"
+       "id": "#052",    
+       "name":"Meowth",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
     },
     {  
-       "name":"persian",
-       "url":"https://pokeapi.co/api/v2/pokemon/53/"
+       "id": "#053",    
+       "name":"Persian",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png"
     },
     {  
-       "name":"psyduck",
-       "url":"https://pokeapi.co/api/v2/pokemon/54/"
+       "id": "#054",    
+       "name":"Psyduck",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png"
     },
     {  
-       "name":"golduck",
-       "url":"https://pokeapi.co/api/v2/pokemon/55/"
+       "id": "#055",    
+       "name":"Golduck",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png"
     },
     {  
-       "name":"mankey",
-       "url":"https://pokeapi.co/api/v2/pokemon/56/"
+       "id": "#056",    
+       "name":"Mankey",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png"
     },
     {  
-       "name":"primeape",
-       "url":"https://pokeapi.co/api/v2/pokemon/57/"
+       "id": "#057",    
+       "name":"Primeape",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png"
     },
     {  
-       "name":"growlithe",
-       "url":"https://pokeapi.co/api/v2/pokemon/58/"
+       "id": "#058",    
+       "name":"Growlithe",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png"
     },
     {  
-       "name":"arcanine",
-       "url":"https://pokeapi.co/api/v2/pokemon/59/"
+       "id": "#059",    
+       "name":"Arcanine",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png"
     },
     {  
-       "name":"poliwag",
-       "url":"https://pokeapi.co/api/v2/pokemon/60/"
+       "id": "#060",    
+       "name":"Poliwag",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png"
     },
     {  
        "name":"poliwhirl",
