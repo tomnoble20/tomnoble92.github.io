@@ -317,7 +317,6 @@
     {  
        "id": "#063",    
        "name":"Abra",
-       "url":"https://pokeapi.co/api/v2/pokemon/63/"
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png"
     },
     {  
