@@ -1,7 +1,7 @@
 [
 {  
        "id": "#001",
-       "name":"Bulbasaur",
+       "name":"bulbasaur",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
        "types": [
            {"type": "poison"},
@@ -10,28 +10,28 @@
     },
     {  
        "id": "#002",    
-       "name":"Ivysaur",   
+       "name":"ivysaur",   
        "img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"    
     },
     {  
        "id": "#003",    
-       "name":"Venusaur",
+       "name":"venusaur",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"     
     },
     {  
        "id": "#004",    
-       "name":"Charmander",
+       "name":"charmander",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"    
 
     },
     {  
        "id": "#005",    
-       "name":"Charmeleon",
+       "name":"charmeleon",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
     },
     {  
        "id": "#006",    
-       "name":"Charizard",
+       "name":"charizard",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
     },
     {  
