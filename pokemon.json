@@ -305,47 +305,59 @@
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png"
     },
     {  
-       "name":"poliwhirl",
-       "url":"https://pokeapi.co/api/v2/pokemon/61/"
+       "id": "#061",    
+       "name":"Poliwhirl",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png"
     },
     {  
-       "name":"poliwrath",
-       "url":"https://pokeapi.co/api/v2/pokemon/62/"
+       "id": "#062",    
+       "name":"Poliwrath",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png"
     },
     {  
-       "name":"abra",
+       "id": "#063",    
+       "name":"Abra",
        "url":"https://pokeapi.co/api/v2/pokemon/63/"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png"
     },
     {  
-       "name":"kadabra",
-       "url":"https://pokeapi.co/api/v2/pokemon/64/"
+       "id": "#064",    
+       "name":"Kadabra",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png"
     },
     {  
-       "name":"alakazam",
-       "url":"https://pokeapi.co/api/v2/pokemon/65/"
+       "id": "#065",    
+       "name":"Alakazam",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
     },
     {  
-       "name":"machop",
-       "url":"https://pokeapi.co/api/v2/pokemon/66/"
+       "id": "#066",    
+       "name":"Machop",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png"
     },
     {  
-       "name":"machoke",
-       "url":"https://pokeapi.co/api/v2/pokemon/67/"
+       "id": "#067",    
+       "name":"Machoke",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png"
     },
     {  
-       "name":"machamp",
-       "url":"https://pokeapi.co/api/v2/pokemon/68/"
+       "id": "#068",    
+       "name":"Machamp",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png"
     },
     {  
-       "name":"bellsprout",
-       "url":"https://pokeapi.co/api/v2/pokemon/69/"
+       "id": "#069",    
+       "name":"Bellsprout",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png"
     },
     {  
-       "name":"weepinbell",
-       "url":"https://pokeapi.co/api/v2/pokemon/70/"
+       "id": "#070",    
+       "name":"Weepinbell",
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png"
     },
     {  
-       "name":"victreebel",
+       "id": "#070",    
+       "name":"Victreebel",
        "url":"https://pokeapi.co/api/v2/pokemon/71/"
     },
     {  
