@@ -2,7 +2,7 @@
 {  
        "id": "#001",
        "name":"bulbasaur",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+       "img": "https://cdn.bulbagarden.net/upload/thumb/2/21/001Bulbasaur.png/250px-001Bulbasaur.png",
        "types": [
            {"type": "poison"},
            {"type": "grass"}
