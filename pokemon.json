@@ -2,7 +2,6 @@
 {  
        "id": "#001",
        "name":"bulbasaur",
-       "color": "#49D0B0",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
        "types": [
            {"type": "poison"},
