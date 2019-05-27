@@ -12,13 +12,13 @@
     {  
        "id": "#002",    
        "name":"ivysaur",   
-       "img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+       "img":"https://cdn.bulbagarden.net/upload/thumb/7/73/002Ivysaur.png/250px-002Ivysaur.png",
        "color": "#48CFAF"    
     },
     {  
        "id": "#003",    
        "name":"venusaur",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+       "img": "https://cdn.bulbagarden.net/upload/thumb/a/ae/003Venusaur.png/250px-003Venusaur.png",
        "color": "#48CFAF"    
     },
     {  
