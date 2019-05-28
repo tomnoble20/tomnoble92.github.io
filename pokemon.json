@@ -60,32 +60,38 @@
     {  
        "id": "#010",    
        "name":"Caterpie",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/5/5d/010Caterpie.png/250px-010Caterpie.png",
+       "color": "#49D156"    
     },
     {  
        "id": "#011",    
        "name":"Metapod",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/c/cd/011Metapod.png/250px-011Metapod.png",
+       "color": "#49D156"    
     },
     {  
        "id": "#012",    
        "name":"Butterfree",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/d/d1/012Butterfree.png/250px-012Butterfree.png",
+       "color": "#49D156"    
     },
     {  
        "id": "#013",    
        "name":"Weedle",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/d/df/013Weedle.png/250px-013Weedle.png",
+       "color": "#49D156"    
     },
     {  
        "id": "#014",    
        "name":"Kakuna",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/f/f0/014Kakuna.png/250px-014Kakuna.png",
+       "color": "#49D156"    
     },
     {  
        "id": "#015",    
        "name":"Beedrill",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/6/61/015Beedrill.png/250px-015Beedrill.png",
+       "color": "#49D156"    
     },
     {  
        "id": "#016",    
