@@ -24,35 +24,38 @@
     {  
        "id": "#004",    
        "name":"charmander",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+       "img": "https://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/250px-004Charmander.png",
        "color": "#FC6C6D"    
     },
     {  
        "id": "#005",    
        "name":"charmeleon",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+       "img": "https://cdn.bulbagarden.net/upload/thumb/4/4a/005Charmeleon.png/250px-005Charmeleon.png",
        "color": "#FC6C6D"    
     },
     {  
        "id": "#006",    
        "name":"charizard",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+       "img": "https://cdn.bulbagarden.net/upload/thumb/7/7e/006Charizard.png/250px-006Charizard.png",
        "color": "#FC6C6D"    
     },
     {  
        "id": "#007",    
        "name":"Squirtle",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/250px-007Squirtle.png",
+       "color": "#76BEFE"    
     },
     {  
        "id": "#008",    
        "name":"Wartortle",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/0/0c/008Wartortle.png/250px-008Wartortle.png",
+       "color": "#76BEFE"    
     },
     {  
        "id": "#009",    
        "name":"Blastoise",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/0/02/009Blastoise.png/250px-009Blastoise.png",
+       "color": "#76BEFE"    
     },
     {  
        "id": "#010",    
