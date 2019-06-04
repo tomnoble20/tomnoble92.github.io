@@ -146,32 +146,32 @@
     {  
        "id": "#026",    
        "name":"raichu",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/8/88/026Raichu.png/250px-026Raichu.png"
     },
     {  
        "id": "#027",    
        "name":"sandshrew",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/9/9e/027Sandshrew.png/250px-027Sandshrew.png"
     },
     {  
        "id": "#028",    
        "name":"sandslash",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/0/0b/028Sandslash.png/250px-028Sandslash.png"
     },
     {  
        "id": "#029",    
        "name":"nidoran-f",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/8/81/029Nidoran.png/250px-029Nidoran.png"
     },
     {  
        "id": "#030",    
        "name":"nidorina",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/c/cd/030Nidorina.png/250px-030Nidorina.png"
     },
     {  
        "id": "#031",    
        "name":"nidoqueen",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/c/cd/031Nidoqueen.png/250px-031Nidoqueen.png"
     },
     {  
        "id": "#032",    
