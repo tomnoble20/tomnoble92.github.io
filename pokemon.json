@@ -336,67 +336,80 @@
     {  
        "id": "#056",    
        "name":"mankey",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/4/41/056Mankey.png/250px-056Mankey.png",
+       "color": "#C03028"    
     },
     {  
        "id": "#057",    
        "name":"primeape",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/9/9a/057Primeape.png/250px-057Primeape.png",
+       "color": "#C03028"    
     },
     {  
        "id": "#058",    
        "name":"growlithe",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png"
+       "img": "https://bulbapedia.bulbagarden.net/wiki/File:058Growlithe.png",
+       "color": "#F08030"    
     },
     {  
        "id": "#059",    
        "name":"arcanine",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/b/b8/059Arcanine.png/250px-059Arcanine.png",
+       "color": "#F08030"    
     },
     {  
        "id": "#060",    
        "name":"poliwag",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/4/49/060Poliwag.png/250px-060Poliwag.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#061",    
        "name":"poliwhirl",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/a/a9/061Poliwhirl.png/250px-061Poliwhirl.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#062",    
        "name":"poliwrath",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/2/2d/062Poliwrath.png/250px-062Poliwrath.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#063",    
        "name":"abra",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/6/62/063Abra.png/250px-063Abra.png",
+       "color": "#FC5888"    
     },
     {  
        "id": "#064",    
        "name":"kadabra",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/9/97/064Kadabra.png/250px-064Kadabra.png",
+       "color": "#FC5888"    
     },
     {  
        "id": "#065",    
        "name":"alakazam",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/c/cc/065Alakazam.png/250px-065Alakazam.png",
+       "color": "#FC5888"    
     },
     {  
        "id": "#066",    
        "name":"machop",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/8/85/066Machop.png/250px-066Machop.png",
+       "color": "#C03028"    
     },
     {  
        "id": "#067",    
        "name":"machoke",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/8/8e/067Machoke.png/250px-067Machoke.png",
+       "color": "#C03028"    
     },
     {  
        "id": "#068",    
        "name":"machamp",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/8/8f/068Machamp.png/250px-068Machamp.png",
+       "color": "#C03028"    
     },
     {  
        "id": "#069",    
