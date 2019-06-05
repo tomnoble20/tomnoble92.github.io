@@ -276,52 +276,62 @@
     {  
        "id": "#046",    
        "name":"paras",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/d/d4/046Paras.png/250px-046Paras.png",
+       "color": "#A8B820"    
     },
     {  
        "id": "#047",    
        "name":"parasect",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/8/80/047Parasect.png/250px-047Parasect.png",
+       "color": "#A8B820",    
     },
     {  
        "id": "#048",    
        "name":"venonat",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/a/ad/048Venonat.png/250px-048Venonat.png",
+       "color": "#A8B820"    
     },
     {  
        "id": "#049",    
        "name":"venomoth",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/d/d3/049Venomoth.png/250px-049Venomoth.png",
+       "color": "#A8B820"    
     },
     {  
        "id": "#050",    
        "name":"diglett",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/250px-050Diglett.png",
+       "color": "#E0C068"    
     },
     {  
        "id": "#051",    
        "name":"dugtrio",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/e/e5/051Dugtrio.png/250px-051Dugtrio.png",
+       "color": "#E0C068"    
     },
     {  
        "id": "#052",    
        "name":"meowth",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/d/d6/052Meowth.png/250px-052Meowth.png",
+       "color": "#A8A878"   
     },
     {  
        "id": "#053",    
        "name":"persian",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/1/13/053Persian.png/250px-053Persian.png",
+       "color": "#A8A878"    
     },
     {  
        "id": "#054",    
        "name":"psyduck",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/5/53/054Psyduck.png/250px-054Psyduck.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#055",    
        "name":"golduck",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/f/fe/055Golduck.png/250px-055Golduck.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#056",    
