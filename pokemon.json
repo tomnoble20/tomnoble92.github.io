@@ -175,98 +175,103 @@
        "id": "#029",    
        "name":"nidoran-f",
        "img": "https://cdn.bulbagarden.net/upload/thumb/8/81/029Nidoran.png/250px-029Nidoran.png",
-       "color": "#A8A878"    
+       "color": "#A040A0"    
     },
     {  
        "id": "#030",    
        "name":"nidorina",
        "img": "https://cdn.bulbagarden.net/upload/thumb/c/cd/030Nidorina.png/250px-030Nidorina.png",
-       "color": "#A8A878"    
+       "color": "#A040A0"    
     },
     {  
        "id": "#031",    
        "name":"nidoqueen",
-       "img": "https://cdn.bulbagarden.net/upload/thumb/c/cd/031Nidoqueen.png/250px-031Nidoqueen.png",
-       "color": "#A8A878"    
+       "img": "https://cdn.bulbagarden.net/upload/thumb/b/bf/031Nidoqueen.png/250px-031Nidoqueen.png",
+       "color": "#A040A0"    
     },
     {  
        "id": "#032",    
        "name":"nidoran-m",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
-       "color": "#A8A878"    
+       "img": "https://cdn.bulbagarden.net/upload/thumb/4/4a/032Nidoran.png/250px-032Nidoran.png",
+       "color": "#A040A0"    
     },
     {  
        "id": "#033",    
        "name":"nidorino",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
-       "color": "#A8A878"    
+       "img": "https://cdn.bulbagarden.net/upload/thumb/9/9f/033Nidorino.png/250px-033Nidorino.png",
+       "color": "#A040A0"    
     },
     {  
        "id": "#034",    
        "name":"nidoking",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
-       "color": "#A8A878"    
+       "img": "https://cdn.bulbagarden.net/upload/thumb/c/c6/034Nidoking.png/250px-034Nidoking.png",
+       "color": "#A040A0"    
     },
     {  
        "id": "#035",    
        "name":"clefairy",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+       "img": "https://cdn.bulbagarden.net/upload/thumb/f/f4/035Clefairy.png/250px-035Clefairy.png",
        "color": "#EE99AC"    
     },
     {  
        "id": "#036",    
        "name":"clefable",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+       "img": "https://cdn.bulbagarden.net/upload/thumb/a/a9/036Clefable.png/250px-036Clefable.png",
        "color": "#EE99AC"    
     },
     {  
        "id": "#037",    
        "name":"vulpix",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+       "img": "https://cdn.bulbagarden.net/upload/thumb/6/60/037Vulpix.png/250px-037Vulpix.png",
        "color": "#F08030"    
     },
     {  
        "id": "#038",    
        "name":"ninetales",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+       "img": "https://cdn.bulbagarden.net/upload/thumb/0/05/038Ninetales.png/250px-038Ninetales.png",
        "color": "#F08030"    
     },
     {  
        "id": "#039",    
        "name":"jigglypuff",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+       "img": "https://cdn.bulbagarden.net/upload/thumb/3/3e/039Jigglypuff.png/250px-039Jigglypuff.png",
        "color": "#EE99AC"    
     },
     {  
        "id": "#040",    
        "name":"wigglytuff",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+       "img": "https://cdn.bulbagarden.net/upload/thumb/9/92/040Wigglytuff.png/250px-040Wigglytuff.png",
        "color": "#EE99AC"    
     },
     {  
        "id": "#041",    
        "name":"zubat",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/d/da/041Zubat.png/250px-041Zubat.png",
+       "color": "#A040A0"    
     },
     {  
        "id": "#042",    
        "name":"golbat",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/0/0c/042Golbat.png/250px-042Golbat.png",
+       "color": "#A040A0"    
     },
     {  
        "id": "#043",    
        "name":"oddish",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/4/43/043Oddish.png/250px-043Oddish.png",
+       "color": "#78C850"    
     },
     {  
        "id": "#044",    
        "name":"gloom",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/2/2a/044Gloom.png/250px-044Gloom.png",
+       "color": "#78C850"    
     },
     {  
        "id": "#045",    
        "name":"vileplume",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/6/6a/045Vileplume.png/250px-045Vileplume.png",
+       "color": "#78C850"    
     },
     {  
        "id": "#046",    
