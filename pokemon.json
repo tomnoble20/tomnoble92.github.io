@@ -96,57 +96,68 @@
     {  
        "id": "#016",    
        "name":"pidgey",
-       "img": "https://cdn.bulbagarden.net/upload/thumb/5/55/016Pidgey.png/250px-016Pidgey.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/5/55/016Pidgey.png/250px-016Pidgey.png",
+       "color": "#A890F0"    
     },
     {  
        "id": "#017",    
        "name":"pidgeotto",
-       "img": "https://cdn.bulbagarden.net/upload/thumb/7/7a/017Pidgeotto.png/250px-017Pidgeotto.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/7/7a/017Pidgeotto.png/250px-017Pidgeotto.png",
+       "color": "#A890F0"    
     },
     {  
        "id": "#018",   
        "name":"pidgeot",
-       "img": "https://cdn.bulbagarden.net/upload/thumb/5/57/018Pidgeot.png/250px-018Pidgeot.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/5/57/018Pidgeot.png/250px-018Pidgeot.png",
+       "color": "#A890F0"    
     },
     {  
        "id": "#019",    
        "name":"rattata",
-       "img": "https://cdn.bulbagarden.net/upload/thumb/4/46/019Rattata.png/250px-019Rattata.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/4/46/019Rattata.png/250px-019Rattata.png",
+       "color": "#A8A878"    
     },
     {  
        "id": "#020",    
        "name":"raticate",
-       "img": "https://cdn.bulbagarden.net/upload/thumb/f/f4/020Raticate.png/250px-020Raticate.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/f/f4/020Raticate.png/250px-020Raticate.png",
+       "color": "#A8A878"    
     },
     {  
        "id": "#021",
        "name":"spearow",
-       "img": "https://cdn.bulbagarden.net/upload/thumb/8/8b/021Spearow.png/250px-021Spearow.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/8/8b/021Spearow.png/250px-021Spearow.png",
+       "color": "#A890F0"    
     },
     {  
        "id": "#022",    
        "name":"fearow",
-       "img": "https://cdn.bulbagarden.net/upload/thumb/a/a0/022Fearow.png/250px-022Fearow.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/a/a0/022Fearow.png/250px-022Fearow.png",
+       "color": "#A890F0"    
     },
     {  
        "id": "#023",    
        "name":"ekans",
-       "img": "https://cdn.bulbagarden.net/upload/thumb/f/fa/023Ekans.png/250px-023Ekans.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/f/fa/023Ekans.png/250px-023Ekans.png",
+       "color": "#A040A0"    
     },
     {  
        "id": "#024",    
        "name":"arbok",
-       "img": "https://cdn.bulbagarden.net/upload/thumb/c/cd/024Arbok.png/250px-024Arbok.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/c/cd/024Arbok.png/250px-024Arbok.png",
+       "color": "#A040A0"    
     },
     {  
        "id": "#025",    
        "name":"pikachu",
-       "img": "https://cdn.bulbagarden.net/upload/thumb/0/0d/025Pikachu.png/250px-025Pikachu.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/0/0d/025Pikachu.png/250px-025Pikachu.png",
+       "color": "#F8D030"    
     },
     {  
        "id": "#026",    
        "name":"raichu",
-       "img": "https://cdn.bulbagarden.net/upload/thumb/8/88/026Raichu.png/250px-026Raichu.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/8/88/026Raichu.png/250px-026Raichu.png",
+       "color": "#F8D030"    
     },
     {  
        "id": "#027",    
