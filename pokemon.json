@@ -89,8 +89,7 @@
        "name":"caterpie",
        "img": "https://cdn.bulbagarden.net/upload/thumb/5/5d/010Caterpie.png/250px-010Caterpie.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "bug"}
         ],    
        "color": "#49D156"    
     },
@@ -99,8 +98,7 @@
        "name":"metapod",
        "img": "https://cdn.bulbagarden.net/upload/thumb/c/cd/011Metapod.png/250px-011Metapod.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "bug"}
         ],    
        "color": "#49D156"    
     },
@@ -109,8 +107,7 @@
        "name":"butterfree",
        "img": "https://cdn.bulbagarden.net/upload/thumb/d/d1/012Butterfree.png/250px-012Butterfree.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "bug"}
         ],    
        "color": "#49D156"    
     },
@@ -119,8 +116,7 @@
        "name":"weedle",
        "img": "https://cdn.bulbagarden.net/upload/thumb/d/df/013Weedle.png/250px-013Weedle.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "bug"}
         ],    
        "color": "#49D156"    
     },
@@ -129,8 +125,7 @@
        "name":"kakuna",
        "img": "https://cdn.bulbagarden.net/upload/thumb/f/f0/014Kakuna.png/250px-014Kakuna.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "bug"}
         ],    
        "color": "#49D156"    
     },
@@ -139,8 +134,7 @@
        "name":"beedrill",
        "img": "https://cdn.bulbagarden.net/upload/thumb/6/61/015Beedrill.png/250px-015Beedrill.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "bug"}
         ],    
        "color": "#49D156"    
     },
@@ -149,8 +143,7 @@
        "name":"pidgey",
        "img": "https://cdn.bulbagarden.net/upload/thumb/5/55/016Pidgey.png/250px-016Pidgey.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "flying"}
         ],    
        "color": "#A890F0"    
     },
@@ -159,8 +152,7 @@
        "name":"pidgeotto",
        "img": "https://cdn.bulbagarden.net/upload/thumb/7/7a/017Pidgeotto.png/250px-017Pidgeotto.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "flying"}
         ],    
        "color": "#A890F0"    
     },
@@ -169,8 +161,7 @@
        "name":"pidgeot",
        "img": "https://cdn.bulbagarden.net/upload/thumb/5/57/018Pidgeot.png/250px-018Pidgeot.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "flying"}
         ],    
        "color": "#A890F0"    
     },
@@ -179,8 +170,7 @@
        "name":"rattata",
        "img": "https://cdn.bulbagarden.net/upload/thumb/4/46/019Rattata.png/250px-019Rattata.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "normal"}
         ],    
        "color": "#A8A878"    
     },
@@ -189,8 +179,7 @@
        "name":"raticate",
        "img": "https://cdn.bulbagarden.net/upload/thumb/f/f4/020Raticate.png/250px-020Raticate.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "normal"}
         ],    
        "color": "#A8A878"    
     },
@@ -199,8 +188,7 @@
        "name":"spearow",
        "img": "https://cdn.bulbagarden.net/upload/thumb/8/8b/021Spearow.png/250px-021Spearow.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "flying"}
         ],    
        "color": "#A890F0"    
     },
@@ -209,8 +197,7 @@
        "name":"fearow",
        "img": "https://cdn.bulbagarden.net/upload/thumb/a/a0/022Fearow.png/250px-022Fearow.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "flying"}
         ],    
        "color": "#A890F0"    
     },
@@ -219,8 +206,7 @@
        "name":"ekans",
        "img": "https://cdn.bulbagarden.net/upload/thumb/f/fa/023Ekans.png/250px-023Ekans.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "poison"}
         ],    
        "color": "#A040A0"    
     },
@@ -229,8 +215,7 @@
        "name":"arbok",
        "img": "https://cdn.bulbagarden.net/upload/thumb/c/cd/024Arbok.png/250px-024Arbok.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "poison"}
         ],    
        "color": "#A040A0"    
     },
@@ -239,8 +224,7 @@
        "name":"pikachu",
        "img": "https://cdn.bulbagarden.net/upload/thumb/0/0d/025Pikachu.png/250px-025Pikachu.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "electric"}
         ],    
        "color": "#F8D030"    
     },
@@ -249,8 +233,7 @@
        "name":"raichu",
        "img": "https://cdn.bulbagarden.net/upload/thumb/8/88/026Raichu.png/250px-026Raichu.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "electric"}
         ],    
        "color": "#F8D030"    
     },
@@ -259,8 +242,7 @@
        "name":"sandshrew",
        "img": "https://cdn.bulbagarden.net/upload/thumb/9/9e/027Sandshrew.png/250px-027Sandshrew.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "ground"}
         ],    
        "color": "#E0C068"    
     },
@@ -269,8 +251,7 @@
        "name":"sandslash",
        "img": "https://cdn.bulbagarden.net/upload/thumb/0/0b/028Sandslash.png/250px-028Sandslash.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "ground"}
         ],    
        "color": "#E0C068"    
     },
@@ -279,8 +260,7 @@
        "name":"nidoran-f",
        "img": "https://cdn.bulbagarden.net/upload/thumb/8/81/029Nidoran.png/250px-029Nidoran.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "normal"}
         ],    
        "color": "#A040A0"    
     },
@@ -289,8 +269,7 @@
        "name":"nidorina",
        "img": "https://cdn.bulbagarden.net/upload/thumb/c/cd/030Nidorina.png/250px-030Nidorina.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "normal"}
         ],    
        "color": "#A040A0"    
     },
@@ -299,8 +278,7 @@
        "name":"nidoqueen",
        "img": "https://cdn.bulbagarden.net/upload/thumb/b/bf/031Nidoqueen.png/250px-031Nidoqueen.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "normal"}
         ],    
        "color": "#A040A0"    
     },
@@ -309,8 +287,7 @@
        "name":"nidoran-m",
        "img": "https://cdn.bulbagarden.net/upload/thumb/4/4a/032Nidoran.png/250px-032Nidoran.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "normal"}
         ],    
        "color": "#A040A0"    
     },
@@ -319,8 +296,7 @@
        "name":"nidorino",
        "img": "https://cdn.bulbagarden.net/upload/thumb/9/9f/033Nidorino.png/250px-033Nidorino.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "normal"}
         ],    
        "color": "#A040A0"    
     },
@@ -329,8 +305,7 @@
        "name":"nidoking",
        "img": "https://cdn.bulbagarden.net/upload/thumb/c/c6/034Nidoking.png/250px-034Nidoking.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "normal"}
         ],    
        "color": "#A040A0"    
     },
@@ -339,8 +314,7 @@
        "name":"clefairy",
        "img": "https://cdn.bulbagarden.net/upload/thumb/f/f4/035Clefairy.png/250px-035Clefairy.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "fairy"}
         ],    
        "color": "#EE99AC"    
     },
@@ -349,8 +323,7 @@
        "name":"clefable",
        "img": "https://cdn.bulbagarden.net/upload/thumb/a/a9/036Clefable.png/250px-036Clefable.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "fairy"}
         ],    
        "color": "#EE99AC"    
     },
@@ -359,8 +332,7 @@
        "name":"vulpix",
        "img": "https://cdn.bulbagarden.net/upload/thumb/6/60/037Vulpix.png/250px-037Vulpix.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "fire"}
         ],    
        "color": "#F08030"    
     },
@@ -369,8 +341,7 @@
        "name":"ninetales",
        "img": "https://cdn.bulbagarden.net/upload/thumb/0/05/038Ninetales.png/250px-038Ninetales.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "fire"}
         ],    
        "color": "#F08030"    
     },
@@ -379,8 +350,7 @@
        "name":"jigglypuff",
        "img": "https://cdn.bulbagarden.net/upload/thumb/3/3e/039Jigglypuff.png/250px-039Jigglypuff.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "fairy"}
         ],    
        "color": "#EE99AC"    
     },
@@ -389,8 +359,7 @@
        "name":"wigglytuff",
        "img": "https://cdn.bulbagarden.net/upload/thumb/9/92/040Wigglytuff.png/250px-040Wigglytuff.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "fairy"}
         ],    
        "color": "#EE99AC"    
     },
@@ -399,8 +368,7 @@
        "name":"zubat",
        "img": "https://cdn.bulbagarden.net/upload/thumb/d/da/041Zubat.png/250px-041Zubat.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "normal"}
         ],    
        "color": "#A040A0"    
     },
@@ -409,8 +377,7 @@
        "name":"golbat",
        "img": "https://cdn.bulbagarden.net/upload/thumb/0/0c/042Golbat.png/250px-042Golbat.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "normal"}
         ],    
        "color": "#A040A0"    
     },
