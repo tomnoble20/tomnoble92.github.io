@@ -414,52 +414,62 @@
     {  
        "id": "#069",    
        "name":"bellsprout",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/a/a2/069Bellsprout.png/250px-069Bellsprout.png",
+       "color": "#78C850"    
     },
     {  
        "id": "#070",    
        "name":"weepinbell",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/9/9f/070Weepinbell.png/250px-070Weepinbell.png",
+       "color": "#78C850"    
     },
     {  
        "id": "#071",    
        "name":"victreebel",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/b/be/071Victreebel.png/250px-071Victreebel.png",
+       "color": "#78C850"    
     },
     {  
        "id": "#072",    
        "name":"tentacool",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/4/4e/072Tentacool.png/250px-072Tentacool.png",
+       "color": #6890F0""    
     },
     {  
        "id": "#073",    
        "name":"tentacruel",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/f/f6/073Tentacruel.png/250px-073Tentacruel.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#074",    
        "name":"geodude",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/9/98/074Geodude.png/250px-074Geodude.png",
+       "color": "#B8A038"    
     },
     {  
        "id": "#075",    
        "name":"graveler",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/7/75/075Graveler.png/250px-075Graveler.png",
+       "color": "#B8A038"    
     },
     {  
        "id": "#076",    
        "name":"golem",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/f/f2/076Golem.png/250px-076Golem.png",
+       "color": "#B8A038"    
     },
     {  
        "id": "#077",    
        "name":"ponyta",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/3/3b/077Ponyta.png/250px-077Ponyta.png",
+       "color": "#F08030"    
     },
     {  
        "id": "#078",    
        "name":"rapidash",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/3/3f/078Rapidash.png/250px-078Rapidash.png",
+       "color": "#F08030"    
     },
     {  
        "id": "#079",    
