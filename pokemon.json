@@ -7,7 +7,7 @@
            {"type": "poison"},
            {"type": "grass"}
         ],
-       "color": "#48CFAF"
+       "color": "#78C850"
     },
     {  
        "id": "#002",    
@@ -17,7 +17,7 @@
            {"type": "poison"},
            {"type": "grass"}
         ], 
-       "color": "#48CFAF"    
+       "color": "#78C850"    
     },
     {  
        "id": "#003",    
@@ -27,7 +27,7 @@
            {"type": "poison"},
            {"type": "grass"}
         ],    
-       "color": "#48CFAF"    
+       "color": "#78C850"    
     },
     {  
        "id": "#004",    
@@ -36,7 +36,7 @@
        "types": [
            {"type": "fire"}
         ],    
-       "color": "#FC6C6D"    
+       "color": "#F08030"    
     },
     {  
        "id": "#005",    
@@ -45,7 +45,7 @@
        "types": [
            {"type": "fire"}
         ],    
-       "color": "#FC6C6D"    
+       "color": "#F08030"    
     },
     {  
        "id": "#006",    
@@ -55,7 +55,7 @@
            {"type": "fire"},
            {"type": "flying"}
         ],    
-       "color": "#FC6C6D"    
+       "color": "#F08030"    
     },
     {  
        "id": "#007",    
@@ -64,7 +64,7 @@
        "types": [
            {"type": "water"}
         ],    
-       "color": "#76BEFE"    
+       "color": "#6890F0"    
     },
     {  
        "id": "#008",    
@@ -73,7 +73,7 @@
        "types": [
            {"type": "water"}
         ],    
-       "color": "#76BEFE"    
+       "color": "#6890F0"    
     },
     {  
        "id": "#009",    
@@ -82,7 +82,7 @@
        "types": [
            {"type": "water"}
         ],    
-       "color": "#76BEFE"    
+       "color": "#6890F0"    
     },
     {  
        "id": "#010",    
