@@ -474,57 +474,68 @@
     {  
        "id": "#079",    
        "name":"slowpoke",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/7/70/079Slowpoke.png/250px-079Slowpoke.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#080",    
        "name":"slowbro",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/8/80/080Slowbro.png/250px-080Slowbro.pngg",
+       "color": "#6890F0"    
     },
     {  
        "id": "#081",    
        "name":"magnemite",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/6/6c/081Magnemite.png/250px-081Magnemite.png",
+       "color": "#FEED30"    
     },
     {  
        "id": "#082",    
        "name":"magneton",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/7/72/082Magneton.png/250px-082Magneton.png",
+       "color": "#FEED30"    
     },
     {  
        "id": "#083",    
        "name":"farfetchd",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/f/f8/083Farfetch%27d.png/250px-083Farfetch%27d.png",
+       "color": "#A8A878"    
     },
     {  
        "id": "#084",    
        "name":"doduo",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/5/54/084Doduo.png/250px-084Doduo.png",
+       "color": "#A8A878"    
     },
     {  
        "id": "#085",    
        "name":"dodrio",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/9/93/085Dodrio.png/250px-085Dodrio.png",
+       "color": "#A8A878"    
     },
     {  
        "id": "#086",    
        "name":"seel",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/1/1f/086Seel.png/250px-086Seel.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#087",    
        "name":"dewgong",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/c/c7/087Dewgong.png/250px-087Dewgong.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#088",    
        "name":"grimer",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/a/a0/088Grimer.png/250px-088Grimer.png",
+       "color": "#A040A0"    
     },
     {  
        "id": "#089",    
        "name":"muk",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/7/7c/089Muk.png/250px-089Muk.png",
+       "color": "#A040A0"    
     },
     {  
        "id": "#090",    
