@@ -624,102 +624,122 @@
     {  
        "id": "#104",    
        "name":"cubone",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/2/2a/104Cubone.png/250px-104Cubone.png",
+       "color": "#495C9E"    
     },
     {  
        "id": "#105",    
        "name":"marowak",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/9/98/105Marowak.png/250px-105Marowak.png",
+       "color": "#495C9E"    
     },
     {  
        "id": "#106",    
        "name":"hitmonlee",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/3/32/106Hitmonlee.png/250px-106Hitmonlee.png",
+       "color": "#C03028"    
     },
     {  
        "id": "#107",    
        "name":"hitmonchan",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+       "color": "#C03028"    
     },
     {  
        "id": "#108",    
        "name":"lickitung",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png"
+       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+       "color": "#A8A878"    
     },
     {  
        "id": "#109",    
        "name":"koffing",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/1/17/109Koffing.png/250px-109Koffing.png",
+       "color":"#A040A0"    
     },
     {  
        "id": "#110",    
        "name":"weezing",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/4/42/110Weezing.png/250px-110Weezing.png",
+       "color": "#A040A0"    
     },
     {  
        "id": "#111",    
        "name":"rhyhorn",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/9/9b/111Rhyhorn.png/250px-111Rhyhorn.png",
+       "color": "#E0C068"   
     },
     {  
        "id": "#112",    
        "name":"rhydon",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/4/47/112Rhydon.png/250px-112Rhydon.png",
+       "color": "#E0C068"    
     },
     {  
        "id": "#113",    
        "name":"chansey",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/c/cd/113Chansey.png/250px-113Chansey.png",
+       "color": "#A8A878"    
     },
     {  
        "id": "#114",    
        "name":"tangela",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/3/3e/114Tangela.png/250px-114Tangela.png",
+       "color": "#77C64F"    
     },
     {  
        "id": "#115",    
        "name":"kangaskhan",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/4/4e/115Kangaskhan.png/250px-115Kangaskhan.png",
+       "color": "#A8A878"    
     },
     {  
        "id": "#116",    
        "name":"horsea",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/5/5a/116Horsea.png/250px-116Horsea.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#117",    
        "name":"seadra",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/2/26/117Seadra.png/250px-117Seadra.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#118",    
        "name":"goldeen",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/7/7b/118Goldeen.png/250px-118Goldeen.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#119",    
        "name":"seaking",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/6/6a/119Seaking.png/250px-119Seaking.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#120",    
        "name":"staryu",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/4/4f/120Staryu.png/250px-120Staryu.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#121",    
        "name":"starmie",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/c/cd/121Starmie.png/250px-121Starmie.png",
+       "color": "#6890F0"    
     },
     {  
        "id": "#122",    
        "name":"mr-mime",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/e/ec/122Mr._Mime.png/250px-122Mr._Mime.png",
+       "color": "#F85888"    
     },
     {  
        "id": "#123",    
        "name":"scyther",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/b/ba/123Scyther.png/250px-123Scyther.png",
+       "color": "#A8B820"    
     },
     {  
        "id": "#124",    
