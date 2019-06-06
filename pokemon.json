@@ -62,8 +62,7 @@
        "name":"squirtle",
        "img": "https://cdn.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/250px-007Squirtle.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "water"}
         ],    
        "color": "#76BEFE"    
     },
@@ -72,8 +71,7 @@
        "name":"wartortle",
        "img": "https://cdn.bulbagarden.net/upload/thumb/0/0c/008Wartortle.png/250px-008Wartortle.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "water"}
         ],    
        "color": "#76BEFE"    
     },
@@ -82,8 +80,7 @@
        "name":"blastoise",
        "img": "https://cdn.bulbagarden.net/upload/thumb/0/02/009Blastoise.png/250px-009Blastoise.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "water"}
         ],    
        "color": "#76BEFE"    
     },
