@@ -34,8 +34,7 @@
        "name":"charmander",
        "img": "https://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/250px-004Charmander.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "fire"}
         ],    
        "color": "#FC6C6D"    
     },
@@ -44,8 +43,7 @@
        "name":"charmeleon",
        "img": "https://cdn.bulbagarden.net/upload/thumb/4/4a/005Charmeleon.png/250px-005Charmeleon.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "fire"}
         ],    
        "color": "#FC6C6D"    
     },
@@ -54,8 +52,8 @@
        "name":"charizard",
        "img": "https://cdn.bulbagarden.net/upload/thumb/7/7e/006Charizard.png/250px-006Charizard.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "fire"},
+           {"type": "flying"}
         ],    
        "color": "#FC6C6D"    
     },
