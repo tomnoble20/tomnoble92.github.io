@@ -744,142 +744,170 @@
     {  
        "id": "#124",    
        "name":"jynx",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/7/7c/124Jynx.png/250px-124Jynx.png",
+       "color": "#FFFFFF"    
     },
     {  
        "id": "#125",    
        "name":"electabuzz",
-       "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/d/de/125Electabuzz.png/250px-125Electabuzz.png",
+       "color": "#F8D030"    
     },
     {  
        "id": "#126",    
        "name":"magmar",
-       "url":"https://pokeapi.co/api/v2/pokemon/126/"
+       "img": "https://cdn.bulbagarden.net/upload/thumb/8/8c/126Magmar.png/250px-126Magmar.png",
+       "color": "#F08030"    
     },
     {  
        "id": "#127",    
        "name":"pinsir",
-       "url":"https://pokeapi.co/api/v2/pokemon/127/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/7/71/127Pinsir.png/250px-127Pinsir.png",
+       "color": "#A8B820"    
     },
     {  
        "id": "#128",    
        "name":"tauros",
-       "url":"https://pokeapi.co/api/v2/pokemon/128/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/b/b8/128Tauros.png/250px-128Tauros.png",
+       "color": "#A8A878"    
     },
     {  
        "id": "#129",    
        "name":"magikarp",
-       "url":"https://pokeapi.co/api/v2/pokemon/129/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/0/02/129Magikarp.png/250px-129Magikarp.png",
+       "color":"#6890F0"    
     },
     {  
        "id": "#130",    
        "name":"gyarados",
-       "url":"https://pokeapi.co/api/v2/pokemon/130/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/4/41/130Gyarados.png/250px-130Gyarados.png",
+       "color":"#7038F8"    
     },
     {  
        "id": "#131",    
        "name":"lapras",
-       "url":"https://pokeapi.co/api/v2/pokemon/131/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/a/ab/131Lapras.png/250px-131Lapras.png",
+       "color":"#6890F0"    
     },
     {  
        "id": "#132",    
        "name":"ditto",
-       "url":"https://pokeapi.co/api/v2/pokemon/132/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/3/36/132Ditto.png/250px-132Ditto.png",
+       "color":"#A8A878"    
     },
     {  
        "id": "#133",    
        "name":"eevee",
-       "url":"https://pokeapi.co/api/v2/pokemon/133/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/e/e2/133Eevee.png/250px-133Eevee.png",
+       "color":"#A8A878"    
     },
     {  
        "id": "#134",    
        "name":"vaporeon",
-       "url":"https://pokeapi.co/api/v2/pokemon/134/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/f/fd/134Vaporeon.png/250px-134Vaporeon.png",
+       "color":"#6890F0"    
     },
     {  
        "id": "#135",    
        "name":"jolteon",
-       "url":"https://pokeapi.co/api/v2/pokemon/135/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/b/bb/135Jolteon.png/250px-135Jolteon.png",
+       "color":"#F8D030"    
     },
     {  
        "id": "#136",    
        "name":"flareon",
-       "url":"https://pokeapi.co/api/v2/pokemon/136/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/d/dd/136Flareon.png/250px-136Flareon.png",
+       "color":"#F08030"    
     },
     {  
        "id": "#137",    
        "name":"porygon",
-       "url":"https://pokeapi.co/api/v2/pokemon/137/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/6/6b/137Porygon.png/250px-137Porygon.png",
+       "color":"#A8A878"    
     },
     {  
        "id": "#138",    
        "name":"omanyte",
-       "url":"https://pokeapi.co/api/v2/pokemon/138/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/7/79/138Omanyte.png/250px-138Omanyte.png",
+       "color":"#B8A038"    
     },
     {  
        "id": "#139",    
        "name":"omastar",
-       "url":"https://pokeapi.co/api/v2/pokemon/139/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/4/43/139Omastar.png/250px-139Omastar.png",
+       "color":"#B8A038"    
     },
     {  
        "id": "#140",    
        "name":"kabuto",
-       "url":"https://pokeapi.co/api/v2/pokemon/140/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/f/f9/140Kabuto.png/250px-140Kabuto.png",
+       "color":"#B8A038"    
     },
     {  
        "id": "#141",    
        "name":"kabutops",
-       "url":"https://pokeapi.co/api/v2/pokemon/141/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/2/29/141Kabutops.png/250px-141Kabutops.png",
+       "color":"#B8A038"    
     },
     {  
        "id": "#142",    
        "name":"aerodactyl",
-       "url":"https://pokeapi.co/api/v2/pokemon/142/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/e/e8/142Aerodactyl.png/250px-142Aerodactyl.png",
+       "color":"#B8A038"    
     },
     {  
        "id": "#143",    
        "name":"snorlax",
-       "url":"https://pokeapi.co/api/v2/pokemon/143/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/f/fb/143Snorlax.png/250px-143Snorlax.png",
+       "color":"#A8A878"    
     },
     {  
        "id": "#144",    
        "name":"articuno",
-       "url":"https://pokeapi.co/api/v2/pokemon/144/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/4/4e/144Articuno.png/250px-144Articuno.png",
+       "color":"#98D8D8"    
     },
     {  
        "id": "#145",    
        "name":"zapdos",
-       "url":"https://pokeapi.co/api/v2/pokemon/145/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/e/e3/145Zapdos.png/250px-145Zapdos.png",
+       "color":"#FEED30"    
     },
     {  
        "id": "#146",    
        "name":"moltres",
-       "url":"https://pokeapi.co/api/v2/pokemon/146/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/1/1b/146Moltres.png/250px-146Moltres.png",
+       "color":"#F08030"    
     },
     {  
        "id": "#147",    
        "name":"dratini",
-       "url":"https://pokeapi.co/api/v2/pokemon/147/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/c/cc/147Dratini.png/250px-147Dratini.png",
+       "color":"#7038F8"    
     },
     {  
        "id": "#148",    
        "name":"dragonair",
-       "url":"https://pokeapi.co/api/v2/pokemon/148/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/9/93/148Dragonair.png/250px-148Dragonair.png",
+       "color":"#7038F8"  
     },
     {  
        "id": "#149",    
        "name":"dragonite",
-       "url":"https://pokeapi.co/api/v2/pokemon/149/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/8/8b/149Dragonite.png/250px-149Dragonite.png",
+       "color":"#7038F8"
     },
     {  
        "id": "#150",    
        "name":"mewtwo",
-       "url":"https://pokeapi.co/api/v2/pokemon/150/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/7/78/150Mewtwo.png/250px-150Mewtwo.png",
+       "color":"#F85888"
     },
     {  
        "id": "#151",    
        "name":"mew",
-       "url":"https://pokeapi.co/api/v2/pokemon/151/"
+       "img":"https://cdn.bulbagarden.net/upload/thumb/b/b1/151Mew.png/250px-151Mew.png",
+       "color":"#F85888"    
     }
  ]
 
