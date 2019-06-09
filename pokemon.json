@@ -456,8 +456,7 @@
        "name":"diglett",
        "img": "https://cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/250px-050Diglett.png",
        "types": [
-           {"type": "poison"},
-           {"type": "grass"}
+           {"type": "ground"}
         ],    
        "color": "#E0C068"    
     },
@@ -465,361 +464,553 @@
        "id": "#051",    
        "name":"dugtrio",
        "img": "https://cdn.bulbagarden.net/upload/thumb/e/e5/051Dugtrio.png/250px-051Dugtrio.png",
+       "types": [
+           {"type": "ground"}
+        ],    
        "color": "#E0C068"    
     },
     {  
        "id": "#052",    
        "name":"meowth",
        "img": "https://cdn.bulbagarden.net/upload/thumb/d/d6/052Meowth.png/250px-052Meowth.png",
+       "types": [
+           {"type": "normal"}
+        ],    
        "color": "#A8A878"   
     },
     {  
        "id": "#053",    
        "name":"persian",
        "img": "https://cdn.bulbagarden.net/upload/thumb/1/13/053Persian.png/250px-053Persian.png",
+       "types": [
+           {"type": "normal"}
+        ],    
        "color": "#A8A878"    
     },
     {  
        "id": "#054",    
        "name":"psyduck",
        "img": "https://cdn.bulbagarden.net/upload/thumb/5/53/054Psyduck.png/250px-054Psyduck.png",
+       "types": [
+           {"type": "water"},
+           {"type": "psychic"}   
+        ],    
        "color": "#6890F0"    
     },
     {  
        "id": "#055",    
        "name":"golduck",
        "img": "https://cdn.bulbagarden.net/upload/thumb/f/fe/055Golduck.png/250px-055Golduck.png",
+       "types": [
+           {"type": "water"},
+           {"type": "psychic"}   
+        ],    
        "color": "#6890F0"    
     },
     {  
        "id": "#056",    
        "name":"mankey",
        "img": "https://cdn.bulbagarden.net/upload/thumb/4/41/056Mankey.png/250px-056Mankey.png",
+       "types": [
+           {"type": "water"},
+           {"type": "psychic"}   
+        ],    
        "color": "#C03028"    
     },
     {  
        "id": "#057",    
        "name":"primeape",
        "img": "https://cdn.bulbagarden.net/upload/thumb/9/9a/057Primeape.png/250px-057Primeape.png",
+       "types": [
+           {"type": "fighting"}
+        ],     
        "color": "#C03028"    
     },
     {  
        "id": "#058",    
        "name":"growlithe",
        "img": "https://cdn.bulbagarden.net/upload/thumb/3/3d/058Growlithe.png/250px-058Growlithe.png",
+       "types": [
+           {"type": "fire"}
+        ],     
        "color": "#F08030"    
     },
     {  
        "id": "#059",    
        "name":"arcanine",
        "img": "https://cdn.bulbagarden.net/upload/thumb/b/b8/059Arcanine.png/250px-059Arcanine.png",
+       "types": [
+           {"type": "fire"}
+        ],     
        "color": "#F08030"    
     },
     {  
        "id": "#060",    
        "name":"poliwag",
        "img": "https://cdn.bulbagarden.net/upload/thumb/4/49/060Poliwag.png/250px-060Poliwag.png",
+       "types": [
+           {"type": "water"}
+        ],     
        "color": "#6890F0"    
     },
     {  
        "id": "#061",    
        "name":"poliwhirl",
        "img": "https://cdn.bulbagarden.net/upload/thumb/a/a9/061Poliwhirl.png/250px-061Poliwhirl.png",
+       "types": [
+           {"type": "water"}
+        ],     
        "color": "#6890F0"    
     },
     {  
        "id": "#062",    
        "name":"poliwrath",
        "img": "https://cdn.bulbagarden.net/upload/thumb/2/2d/062Poliwrath.png/250px-062Poliwrath.png",
+       "types": [
+           {"type": "water"}
+        ],     
        "color": "#6890F0"    
     },
     {  
        "id": "#063",    
        "name":"abra",
        "img": "https://cdn.bulbagarden.net/upload/thumb/6/62/063Abra.png/250px-063Abra.png",
+       "types": [
+\           {"type": "psychic"}   
+        ],     
        "color": "#FC5888"    
     },
     {  
        "id": "#064",    
        "name":"kadabra",
        "img": "https://cdn.bulbagarden.net/upload/thumb/9/97/064Kadabra.png/250px-064Kadabra.png",
+       "types": [
+           {"type": "psychic"}   
+        ],     
        "color": "#FC5888"    
     },
     {  
        "id": "#065",    
        "name":"alakazam",
        "img": "https://cdn.bulbagarden.net/upload/thumb/c/cc/065Alakazam.png/250px-065Alakazam.png",
+       "types": [
+           {"type": "psychic"}   
+        ],     
        "color": "#FC5888"    
     },
     {  
        "id": "#066",    
        "name":"machop",
        "img": "https://cdn.bulbagarden.net/upload/thumb/8/85/066Machop.png/250px-066Machop.png",
+       "types": [
+           {"type": "fighting"}
+        ],     
        "color": "#C03028"    
     },
     {  
        "id": "#067",    
        "name":"machoke",
        "img": "https://cdn.bulbagarden.net/upload/thumb/8/8e/067Machoke.png/250px-067Machoke.png",
+       "types": [
+           {"type": "fighting"}
+        ],     
        "color": "#C03028"    
     },
     {  
        "id": "#068",    
        "name":"machamp",
        "img": "https://cdn.bulbagarden.net/upload/thumb/8/8f/068Machamp.png/250px-068Machamp.png",
+       "types": [
+           {"type": "fighting"}   
+        ],     
        "color": "#C03028"    
     },
     {  
        "id": "#069",    
        "name":"bellsprout",
        "img": "https://cdn.bulbagarden.net/upload/thumb/a/a2/069Bellsprout.png/250px-069Bellsprout.png",
+       "types": [
+           {"type": "grass"}
+        ],     
        "color": "#78C850"    
     },
     {  
        "id": "#070",    
        "name":"weepinbell",
        "img": "https://cdn.bulbagarden.net/upload/thumb/9/9f/070Weepinbell.png/250px-070Weepinbell.png",
+       "types": [
+           {"type": "grass"}
+        ],     
        "color": "#78C850"    
     },
     {  
        "id": "#071",    
        "name":"victreebel",
        "img": "https://cdn.bulbagarden.net/upload/thumb/b/be/071Victreebel.png/250px-071Victreebel.png",
+       "types": [
+           {"type": "grass"}
+        ],    
        "color": "#78C850"    
     },
     {  
        "id": "#072",    
        "name":"tentacool",
        "img": "https://cdn.bulbagarden.net/upload/thumb/4/4e/072Tentacool.png/250px-072Tentacool.png",
+       "types": [
+           {"type": "water"}
+        ],    
        "color": "#6890F0"    
     },
     {  
        "id": "#073",    
        "name":"tentacruel",
        "img": "https://cdn.bulbagarden.net/upload/thumb/f/f6/073Tentacruel.png/250px-073Tentacruel.png",
+       "types": [
+           {"type": "water"}
+        ],    
        "color": "#6890F0"    
     },
     {  
        "id": "#074",    
        "name":"geodude",
        "img": "https://cdn.bulbagarden.net/upload/thumb/9/98/074Geodude.png/250px-074Geodude.png",
+       "types": [
+           {"type": "ground"}
+        ],    
        "color": "#B8A038"    
     },
     {  
        "id": "#075",    
        "name":"graveler",
        "img": "https://cdn.bulbagarden.net/upload/thumb/7/75/075Graveler.png/250px-075Graveler.png",
+           "types": [
+           {"type": "ground"}
+        ],
        "color": "#B8A038"    
     },
     {  
        "id": "#076",    
        "name":"golem",
        "img": "https://cdn.bulbagarden.net/upload/thumb/f/f2/076Golem.png/250px-076Golem.png",
+       "types": [
+           {"type": "ground"}
+        ],    
        "color": "#B8A038"    
     },
     {  
        "id": "#077",    
        "name":"ponyta",
        "img": "https://cdn.bulbagarden.net/upload/thumb/3/3b/077Ponyta.png/250px-077Ponyta.png",
+       "types": [
+           {"type": "fire"}
+        ],    
        "color": "#F08030"    
     },
     {  
        "id": "#078",    
        "name":"rapidash",
        "img": "https://cdn.bulbagarden.net/upload/thumb/3/3f/078Rapidash.png/250px-078Rapidash.png",
+       "types": [
+           {"type": "fire"}
+        ],    
        "color": "#F08030"    
     },
     {  
        "id": "#079",    
        "name":"slowpoke",
        "img": "https://cdn.bulbagarden.net/upload/thumb/7/70/079Slowpoke.png/250px-079Slowpoke.png",
+       "types": [
+           {"type": "water"},   
+           {"type": "psychic"}
+        ],    
        "color": "#6890F0"    
     },
     {  
        "id": "#080",    
        "name":"slowbro",
-       "img": "https://cdn.bulbagarden.net/upload/thumb/8/80/080Slowbro.png/250px-080Slowbro.pngg",
+       "img": "https://cdn.bulbagarden.net/upload/thumb/8/80/080Slowbro.png/250px-080Slowbro.png",
+       "types": [
+           {"type": "water"},   
+           {"type": "psychic"}
+        ],    
        "color": "#6890F0"    
     },
     {  
        "id": "#081",    
        "name":"magnemite",
        "img": "https://cdn.bulbagarden.net/upload/thumb/6/6c/081Magnemite.png/250px-081Magnemite.png",
+       "types": [
+           {"type": "electric"} 
+        ],    
        "color": "#FEED30"    
     },
     {  
        "id": "#082",    
        "name":"magneton",
        "img": "https://cdn.bulbagarden.net/upload/thumb/7/72/082Magneton.png/250px-082Magneton.png",
+       "types": [
+           {"type": "electric"} 
+        ],    
        "color": "#FEED30"    
     },
     {  
        "id": "#083",    
        "name":"farfetchd",
        "img": "https://cdn.bulbagarden.net/upload/thumb/f/f8/083Farfetch%27d.png/250px-083Farfetch%27d.png",
+       "types": [
+           {"type": "normal"},   
+           {"type": "flying"}
+        ],    
        "color": "#A8A878"    
     },
     {  
        "id": "#084",    
        "name":"doduo",
        "img": "https://cdn.bulbagarden.net/upload/thumb/5/54/084Doduo.png/250px-084Doduo.png",
+       "types": [
+           {"type": "normal"},   
+           {"type": "flying"}
+        ],    
        "color": "#A8A878"    
     },
     {  
        "id": "#085",    
        "name":"dodrio",
        "img": "https://cdn.bulbagarden.net/upload/thumb/9/93/085Dodrio.png/250px-085Dodrio.png",
+       "types": [
+           {"type": "normal"},   
+           {"type": "flying"}
+        ],    
        "color": "#A8A878"    
     },
     {  
        "id": "#086",    
        "name":"seel",
        "img": "https://cdn.bulbagarden.net/upload/thumb/1/1f/086Seel.png/250px-086Seel.png",
+       "types": [
+           {"type": "water"}  
+        ],    
        "color": "#6890F0"    
     },
     {  
        "id": "#087",    
        "name":"dewgong",
        "img": "https://cdn.bulbagarden.net/upload/thumb/c/c7/087Dewgong.png/250px-087Dewgong.png",
+       "types": [
+           {"type": "water"}  
+        ],    
        "color": "#6890F0"    
     },
     {  
        "id": "#088",    
        "name":"grimer",
        "img": "https://cdn.bulbagarden.net/upload/thumb/a/a0/088Grimer.png/250px-088Grimer.png",
+       "types": [
+           {"type": "poison"}  
+        ],    
        "color": "#A040A0"    
     },
     {  
        "id": "#089",    
        "name":"muk",
        "img": "https://cdn.bulbagarden.net/upload/thumb/7/7c/089Muk.png/250px-089Muk.png",
+       "types": [
+           {"type": "poison"}  
+        ],    
        "color": "#A040A0"    
     },
     {  
        "id": "#090",    
        "name":"shellder",
        "img": "https://cdn.bulbagarden.net/upload/thumb/4/40/090Shellder.png/250px-090Shellder.png",
+       "types": [
+           {"type": "water"}  
+        ],    
        "color": "#6890F0"    
     },
     {  
        "id": "#091",    
        "name":"cloyster",
        "img": "https://cdn.bulbagarden.net/upload/thumb/1/1d/091Cloyster.png/250px-091Cloyster.png",
+       "types": [
+           {"type": "water"}  
+        ],    
        "color": "#6890F0"    
     },
     {  
        "id": "#092",    
        "name":"gastly",
        "img": "https://cdn.bulbagarden.net/upload/thumb/c/ca/092Gastly.png/250px-092Gastly.png",
+       "types": [
+           {"type": "ghost"},
+           {"type": "poison"}   
+        ],    
        "color": "#705898"    
     },
     {  
        "id": "#093",    
        "name":"haunter",
        "img": "https://cdn.bulbagarden.net/upload/thumb/6/62/093Haunter.png/250px-093Haunter.png",
+       "types": [
+           {"type": "ghost"},
+           {"type": "poison"}   
+        ],    
        "color": "#705898"    
     },
     {  
        "id": "#094",    
        "name":"gengar",
        "img": "https://cdn.bulbagarden.net/upload/thumb/c/c6/094Gengar.png/250px-094Gengar.png",
-       "color": "#705898"    
+       "types": [
+           {"type": "ghost"},
+           {"type": "poison"}   
+        ],    
+       "color":"#705898"    
     },
     {  
        "id": "#095",    
        "name":"onix",
        "img": "https://cdn.bulbagarden.net/upload/thumb/9/9a/095Onix.png/250px-095Onix.png",
-       "color": "#B8A038"    
+       "types": [
+           {"type": "rock"},
+           {"type": "ground"}   
+        ],    
+       "color":"#B8A038"    
     },
     {  
        "id": "#096",    
        "name":"drowzee",
        "img": "https://cdn.bulbagarden.net/upload/thumb/3/3e/096Drowzee.png/250px-096Drowzee.png",
-       "color": "#F85888"    
+       "types": [
+           {"type": "psychic"}
+        ],     
+       "color":"#F85888"    
     },
     {  
        "id": "#097",    
        "name":"hypno",
        "img": "https://cdn.bulbagarden.net/upload/thumb/0/0a/097Hypno.png/250px-097Hypno.png",
-       "color": "#F85888"    
+       "types": [
+           {"type": "psychic"}
+        ],    
+       "color":"#F85888"    
     },
     {  
        "id": "#098",    
        "name":"krabby",
        "img": "https://cdn.bulbagarden.net/upload/thumb/a/a7/098Krabby.png/250px-098Krabby.png",
-       "color": "#0082C5"    
+       "types": [
+           {"type": "water"}
+        ],    
+       "color":"#0082C5"    
     },
     {  
        "id": "#099",    
        "name":"kingler",
        "img": "https://cdn.bulbagarden.net/upload/thumb/7/71/099Kingler.png/250px-099Kingler.png",
-       "color": "#0082C5"    
+       "types": [
+           {"type": "water"}
+        ],    
+       "color":"#0082C5"    
     },
     {  
        "id": "#100",    
        "name":"voltorb",
        "img": "https://cdn.bulbagarden.net/upload/thumb/d/da/100Voltorb.png/250px-100Voltorb.png",
-       "color": "#F8D030"    
+       "types": [
+           {"type": "electric"}
+        ],    
+       "color":"#F8D030"    
     },
     {  
        "id": "#101",    
        "name":"electrode",
        "img": "https://cdn.bulbagarden.net/upload/thumb/8/84/101Electrode.png/250px-101Electrode.png",
-       "color": "#F8D030"    
+       "types": [
+           {"type": "electric"}
+        ],    
+       "color":"#F8D030"    
     },
     {  
        "id": "#102",    
        "name":"exeggcute",
        "img": "https://cdn.bulbagarden.net/upload/thumb/a/af/102Exeggcute.png/250px-102Exeggcute.png",
+       "types": [
+           {"type": "grass"}
+        ],    
        "color": "#78C850"    
     },
     {  
        "id": "#103",    
        "name":"exeggutor",
        "img": "https://cdn.bulbagarden.net/upload/thumb/2/24/103Exeggutor.png/250px-103Exeggutor.png",
+       "types": [
+           {"type": "grass"}
+        ],    
        "color": "#78C850"    
     },
     {  
        "id": "#104",    
        "name":"cubone",
        "img": "https://cdn.bulbagarden.net/upload/thumb/2/2a/104Cubone.png/250px-104Cubone.png",
+       "types": [
+           {"type": "ground"}
+        ],    
        "color": "#495C9E"    
     },
     {  
        "id": "#105",    
        "name":"marowak",
        "img": "https://cdn.bulbagarden.net/upload/thumb/9/98/105Marowak.png/250px-105Marowak.png",
+       "types": [
+           {"type": "ground"}
+        ],    
        "color": "#495C9E"    
     },
     {  
        "id": "#106",    
        "name":"hitmonlee",
        "img": "https://cdn.bulbagarden.net/upload/thumb/3/32/106Hitmonlee.png/250px-106Hitmonlee.png",
+       "types": [
+           {"type": "fighting"}
+        ],    
        "color": "#C03028"    
     },
     {  
        "id": "#107",    
        "name":"hitmonchan",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
-       "color": "#C03028"    
+       "types": [
+           {"type": "fighting"}
+        ],    
+       "color":"#C03028"    
     },
     {  
        "id": "#108",    
        "name":"lickitung",
        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
-       "color": "#A8A878"    
+       "types": [
+           {"type": "normal"}
+        ],    
+       "color":"#A8A878"    
     },
     {  
        "id": "#109",    
        "name":"koffing",
        "img": "https://cdn.bulbagarden.net/upload/thumb/1/17/109Koffing.png/250px-109Koffing.png",
+       "types": [
+           {"type": "poison"}
+        ],    
        "color":"#A040A0"    
     },
     {  
        "id": "#110",    
        "name":"weezing",
        "img": "https://cdn.bulbagarden.net/upload/thumb/4/42/110Weezing.png/250px-110Weezing.png",
-       "color": "#A040A0"    
+       "types": [
+           {"type": "poison"}
+        ],    
+       "color":"#A040A0"    
     },
     {  
        "id": "#111",    
