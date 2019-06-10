@@ -1380,7 +1380,7 @@
        "id": "#151",    
        "name":"mew",
        "img":"https://cdn.bulbagarden.net/upload/thumb/b/b1/151Mew.png/250px-151Mew.png",
-       types": [
+       "types": [
            {"type": "psychic"}   
         ],    
        "color":"#F85888"    
