@@ -195,10 +195,10 @@ ITCSS ?
 
 ### Extend
 
-### JavaScript
+## JavaScript
 
 https://github.com/airbnb/javascript
 
-### Accessibility
+## Accessibility
 
-### Performance Check List
+## Performance Check List
