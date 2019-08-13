@@ -101,9 +101,19 @@ Put a space before the opening brace { in rule declarations.
 Put closing braces } of rule declarations on a new line.
 Put blank lines between rule declarations.
 
-Bad
+```
 
-Good
+.site-header {
+  display: flex;
+  margin: 16px 8px;
+}
+
+.site-logo {
+  width: 60px;
+  opacity: .5;
+}
+
+```
 
 ### JavaScript Hooks
 
